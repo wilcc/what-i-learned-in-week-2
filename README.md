@@ -1,21 +1,21 @@
 # What-I-learned-in-week-2
 
 
-using padding and margin to move contents on the webpage.
+<li>using padding and margin to move contents on the webpage.</li>
 
-using google font instead of regular font.
+<li>using google font instead of regular font.</li>
 
-when coping a webpage make sure it's in the right scale
+<li>when coping a webpage make sure it's in the right scale</li>
 
-global variables r 'evil' 
+<li>global variables r 'evil' </li>
 
-const>let
+<li>const>let</li>
 
-'command + /' to comment 
-Javascript use //
+<li>'command + /' to comment 
+Javascript use //</li>
 
-use console.log() to call the function and check work
+<li>use console.log() to call the function and check work</li>
 
-use .indexOf() to search for letter
+<li>use .indexOf() to search for letter</li>
 
-use .length to count
+<li>use .length to count</li>
